@@ -4,3 +4,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Navigation Section Styles */
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px 50px 5px 50px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.nav-links a:hover {
+    color: grey;
+}
+
+/* Hero Section Styles */
+
+.hero-image {
+    width: 600px;
+    height: 600px;
+    margin-left: 70px;
+}
+
+.hero-text {
+    padding-top: 180px;
+    margin-left: 150px;
+}
