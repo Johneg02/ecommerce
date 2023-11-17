@@ -188,5 +188,44 @@
     margin-right: 30px;
 }
 
+/* About Section */
+
+.team-section {
+    margin-left: 100px;
+}
+
+.team-title {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.about-img {
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+    margin-left: 100px;
+}
+
+.about-text {
+    padding-top: 180px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.team-card {
+    margin-top: 20px;
+}
+
+.team-card h5 {
+    margin-top: 3px;
+}
+
+.team-card img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+
 
 

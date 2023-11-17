@@ -1,0 +1,28 @@
+.product-information-image img {
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+    margin-left: 100px;
+}
+
+.product-information {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.product-information-text p {
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.related-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.related-text {
+    margin-top: 20px;
+    font-weight: bolder;
+}
